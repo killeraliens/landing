@@ -1,0 +1,29 @@
+.list-inline li {
+  display: inline-block;
+}
+
+
+
+.footer {
+  text-align: center;
+  margin-top: 24px;
+  background-color: black;
+  padding: 32px;
+}
+
+.footer ul {
+  margin: 0;
+}
+
+.footer a {
+  color: rgba(255,255,255,.2);
+  font-size: 24px;
+  margin: 0px 4px;
+}
+
+.footer p {
+  font-size: 12px ;
+  color: rgba(255,255,255,.2);
+  margin-top: 24px;
+}
+
